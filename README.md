@@ -9,4 +9,5 @@ Work in Progress:
 - Landscape Mode
 - Quadratic Formula
 
+./ProjectImages/device.png
 
